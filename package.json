@@ -1,9 +1,10 @@
 {
   "name": "table-calculator",
   "fullName": "Table Calculator",
-  "id": "jid0-pP3UvBgmBRTzOORlcuv9YwpVJTg",
+  "id": "jid0-pP3UvBgmBRTzOORlcuv9YwpVJTg@jetpack",
   "description": "Lets you easily select numbers in a table and get a sorted list, the sum, mean, and median by selecting Crunch these numbers... from the context (right click) menu.",
-  "author": "",
+  "author": "david@illsley.org",
   "license": "MPL 2.0",
-  "version": "0.1"
+  "version": "0.1.1",
+  "main": "lib/main.js"
 }
