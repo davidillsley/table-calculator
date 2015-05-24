@@ -5,6 +5,6 @@
   "description": "Lets you easily select numbers in a table and get a sorted list, the sum, mean, and median by selecting Crunch these numbers... from the context (right click) menu.",
   "author": "david@illsley.org",
   "license": "MPL 2.0",
-  "version": "0.1.1",
+  "version": "0.3.1",
   "main": "lib/main.js"
 }
